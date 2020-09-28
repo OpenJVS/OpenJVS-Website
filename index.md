@@ -1,6 +1,9 @@
 ---
 title: OpenJVS
+markdown: kramdown
 ---
+
+* TOC {:toc}
 
 # OpenJVS
 
