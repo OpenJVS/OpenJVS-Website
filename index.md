@@ -1,9 +1,5 @@
----
-title: OpenJVS
-markdown: kramdown
----
-
-* TOC {:toc}
+* Table of contents
+{:toc}
 
 # OpenJVS
 
